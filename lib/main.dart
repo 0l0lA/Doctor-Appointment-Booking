@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart' 
+import 'package:flutter/material.dart';
 //my name is basel 
 void main() {
   runApp(const MyApp());
